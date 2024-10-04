@@ -1,0 +1,1 @@
+{"version":3,"file":"extract-token.js","sourceRoot":"","sources":["../../../../../src/infrastructure/express_api/utils/extract-token.ts"],"names":[],"mappings":";;;AAAA,SAAgB,YAAY,CAAC,MAAc;IACvC,MAAM,CAAC,MAAM,EAAE,KAAK,CAAC,GAAG,MAAM,CAAC,KAAK,CAAC,GAAG,CAAC,CAAA;IACzC,IAAG,MAAM,KAAK,OAAO;QAAE,OAAO,IAAI,CAAA;IAElC,OAAO,KAAK,CAAA;AAChB,CAAC;AALD,oCAKC"}
